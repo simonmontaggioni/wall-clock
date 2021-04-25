@@ -1,0 +1,17 @@
+{
+  "name": "wall-clock",
+  "version": "1.0.0",
+  "description": "wall clock builded with html and css",
+  "main": "wall-clock.html",
+  "dependencies": {},
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "author": "simon.montaggioni@gmail.com",
+  "license": "ISC"
+}
