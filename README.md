@@ -1,6 +1,9 @@
 # HTML & CSS Wall Clock.
 
 Small piece of code that build a wall clock only with HTML and CSS.
+
+**PD**: The clock needles rotate 10x faster, if you want a normal clock behavior multiply by 10 the animation duration in the css file for each needle;
+
 ![Alt text](wall-clock.png?raw=true "Preview Image")
 
 ## Installation
