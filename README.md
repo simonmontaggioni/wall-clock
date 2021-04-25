@@ -16,9 +16,18 @@ Move into the project folder and open the wall-clock.html file with your browser
 
 ```bash
 cd wall-clock
-
 google-chrome wall-clock.html
 ```
+
+Or, if you already have installed node.js, move into the project folder and execute the following commands.
+
+```bash
+cd wall-clock
+npm install
+npm start
+```
+
+And open your browser in the following address [wall-clock](http://localhost:3000/wall-clock.html).
 
 ## Contributing
 
