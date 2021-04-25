@@ -1,6 +1,7 @@
 # HTML & CSS Wall Clock.
 
 Small piece of code that build a wall clock only with HTML and CSS.
+![Alt text](wall-clock.png?raw=true "Preview Image")
 
 ## Installation
 
